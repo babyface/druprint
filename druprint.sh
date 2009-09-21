@@ -16,10 +16,10 @@ exit
 # then, after setting up through the web interface
 sudo chmod o-w $DEFAULT/settings.php $DEFAULT
 
-drush dl -v admin_menu backup_migrate cck filefield pathauto site_map token views wysiwyg
-drush dl -v reroute_email ie_css_optimizer
+drush dl admin_menu backup_migrate cck filefield pathauto site_map token views wysiwyg
+drush dl reroute_email ie_css_optimizer
 # Maybe these too?
-drush dl -v features context
+drush dl features context simpletest
 # Turn on modules that I always use
 drush enable admin_menu backup_migrate content filefield pathauto token views wysiwyg reroute_email ie_css_optimizer views_ui fieldgroup number optionwidgets text
 # If I'm using zen I don't need the color modules, and I don't use the comment module often
