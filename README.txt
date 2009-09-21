@@ -1,28 +1,27 @@
-= druprint
+# druprint
 
-* http://github.com/thisgeek/druprint/tree/
+  http://github.com/thisgeek/druprint/tree/
 
-== DESCRIPTION:
+## DESCRIPTION:
 
 
 
-== FEATURES/PROBLEMS:
+## FEATURES/PROBLEMS:
 
  N/A
 
-== SYNOPSIS:
+## SYNOPSIS:
 
   N/A
 
-== REQUIREMENTS:
+## REQUIREMENTS:
 
-* none so far
+  none so far
 
-== INSTALL:
+## INSTALL:
+	sudo gem install druprint
 
-* sudo gem install druprint
-
-== LICENSE:
+## LICENSE:
 
 (The MIT License)
 
