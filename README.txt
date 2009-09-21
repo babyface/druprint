@@ -1,26 +1,26 @@
 = druprint
 
-* FIX (url)
+* http://github.com/thisgeek/druprint/tree/
 
 == DESCRIPTION:
 
-FIX (describe your package)
+
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
+ N/A
 
 == SYNOPSIS:
 
-  FIX (code sample of usage)
+  N/A
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+* none so far
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+* sudo gem install druprint
 
 == LICENSE:
 

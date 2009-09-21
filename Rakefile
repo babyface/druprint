@@ -4,7 +4,7 @@ require 'rubygems'
 require 'hoe'
 
 Hoe.spec 'druprint' do
-  # developer('FIX', 'FIX@example.com')
+  developer('Christopher Joslyn', 'christopher.josyn@gmail.com')
 
   # self.rubyforge_name = 'druprintx' # if different than 'druprint'
 end
