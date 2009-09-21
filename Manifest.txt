@@ -1,8 +1,11 @@
-.autotest
 History.txt
 Manifest.txt
-README.txt
+PostInstall.txt
+README.rdoc
 Rakefile
-bin/druprint
 lib/druprint.rb
+script/console
+script/destroy
+script/generate
 test/test_druprint.rb
+test/test_helper.rb

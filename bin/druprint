@@ -1,3 +1,10 @@
 #!/usr/bin/env ruby
+#
+#  Created on 2009-9-21.
+#  Copyright (c) 2009. All rights reserved.
 
-abort "you need to write me"
+require 'rubygems'
+require File.expand_path(File.dirname(__FILE__) + "/../lib/druprint")
+require "druprint/cli"
+
+Druprint::CLI.execute(STDOUT, ARGV)
