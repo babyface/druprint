@@ -1,4 +1,4 @@
-= druprintx
+= druprint
 
 * FIX (url)
 

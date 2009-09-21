@@ -3,10 +3,10 @@
 require 'rubygems'
 require 'hoe'
 
-Hoe.spec 'druprintx' do
+Hoe.spec 'druprint' do
   # developer('FIX', 'FIX@example.com')
 
-  # self.rubyforge_name = 'druprintxx' # if different than 'druprintx'
+  # self.rubyforge_name = 'druprintx' # if different than 'druprint'
 end
 
 # vim: syntax=ruby

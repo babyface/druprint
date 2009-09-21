@@ -3,6 +3,6 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/druprintx
-lib/druprintx.rb
-test/test_druprintx.rb
+bin/druprint
+lib/druprint.rb
+test/test_druprint.rb
